@@ -4,5 +4,5 @@
 
 Para rodar esse projeto:
 ```
-npm install react
+python app.py
 ```
